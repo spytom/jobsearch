@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 27 19:42:30 2018
 
-@author: HSG-Spezial
-"""
 
 import pandas as pd
 import sys
